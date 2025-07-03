@@ -21,8 +21,8 @@
 
 ## Hostwinds优惠码
 
-- **首月5折优惠码**： [ht50](https://www.hostwinds.com/7302.html)
-- **VPS 75折优惠码**：[htvps25](https://www.hostwinds.com/7302.html)
+- **首月5折优惠码**： (https://www.hostwinds.com/7302.html)
+- **VPS 75折优惠码**：(https://www.hostwinds.com/7302.html)
 
 ## Hostwinds套餐配置价格
 
